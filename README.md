@@ -2,8 +2,8 @@
 # Workshop on Digital Forensics
 Installation and Usage of Sleuth Kit & Autopsy
 ```
-Register Number: 212222040121
-Name: Praveen V
+Register Number: 2122224240166
+Name: Syed Huzaif
 ```
 ## Introduction
 Digital forensics involves extracting and analyzing data from digital devices to investigate cybercrimes. Sleuth Kit and Autopsy are widely used open-source tools for forensic analysis.
